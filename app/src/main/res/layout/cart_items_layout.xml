@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_margin="10dp"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/productImage1"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/placeholder"
+            android:layout_gravity="center"
+            />
+
+        <LinearLayout
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/productName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="product Title"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:gravity="center"
+                android:textSize="20sp"
+                />
+
+            <TextView
+                android:id="@+id/productQuantity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="product Quantity"
+                android:textColor="#000000"
+                android:textSize="15sp"
+                />
+
+            <TextView
+                android:id="@+id/date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="date"
+                android:textColor="#000000"
+                android:textSize="15sp"
+                />
+
+            <TextView
+                android:id="@+id/productPrice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="KSH 200"
+                android:textStyle="bold"
+                android:layout_gravity="center_vertical"
+                android:textColor="#fff"
+                android:gravity="center"
+                android:padding="5dp"
+                android:background="@drawable/buttons2"
+                />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/removeFromCart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="REMOVE"
+            android:padding="5dp"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="10dp"
+            android:background="@drawable/buttons3"/>
+
+    </LinearLayout>
+
+
+
+</androidx.cardview.widget.CardView>

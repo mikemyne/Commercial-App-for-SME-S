@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">e-Commerce App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string-array name="categories">
+        <item>Select category</item>
+        <item>Computing</item>
+        <item>Household</item>
+        <item>Health and Beauty</item>
+        <item>Home and Office</item>
+        <item>Phones and Tablets</item>
+        <item>Electronics</item>
+        <item>Fashion</item>
+        <item>Gaming</item>
+        <item>Baby Products</item>
+        <item>Sporting Goods</item>
+        <item>Garden and Outdoors</item>
+        <item>Literature</item>
+        <item>Automobiles</item>
+        <item>Hardware</item>
+    </string-array>
+
+
+</resources>

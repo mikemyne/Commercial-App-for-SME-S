@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@drawable/ic_dashboard"
+        android:visible="false"
+        android:title="Admin Dashboard" />
+
+    <item
+        android:id="@+id/nav_buyers_orders"
+        android:icon="@drawable/orders"
+        android:visible="false"
+        android:title="Orders Made" />
+
+    <item
+        android:id="@+id/nav_orders"
+        android:icon="@drawable/orders"
+        android:title="My Orders" />
+
+    <item
+        android:id="@+id/nav_cart"
+        android:icon="@drawable/ic_cart"
+        android:title="My Cart" />
+
+    <item
+        android:id="@+id/nav_starred"
+        android:icon="@drawable/ic_starred"
+        android:title="Starred" />
+
+    <item android:title="Categories"
+        >
+        <menu>
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/nav_computing"
+                    android:icon="@drawable/ic_it"
+                    android:title="Computing" />
+
+
+                <item
+                    android:id="@+id/nav_supermarket"
+                    android:icon="@drawable/ic_supermarket"
+                    android:title="Household" />
+                <item
+                    android:id="@+id/nav_health"
+                    android:icon="@drawable/ic_health"
+                    android:title="Health and Beauty" />
+
+                <item
+                    android:id="@+id/nav_home"
+                    android:icon="@drawable/ic_houses"
+                    android:title="Home and Office"/>
+
+
+                <item
+                    android:id="@+id/nav_phones"
+                    android:icon="@drawable/ic_phone"
+                    android:title="Phones and Tablets" />
+                <item
+                    android:id="@+id/nav_electronics"
+                    android:icon="@drawable/ic_electronics"
+                    android:title="Electronics" />
+                <item
+                    android:id="@+id/nav_fashion"
+                    android:icon="@drawable/ic_fashion"
+                    android:title="Fashion" />
+
+                <item
+                    android:id="@+id/nav_gaming"
+                    android:icon="@drawable/ic_gaming"
+                    android:title="Gaming" />
+
+                <item
+                    android:id="@+id/nav_baby"
+                    android:icon="@drawable/ic_personalcare"
+                    android:title="Baby Products" />
+                <item
+                    android:id="@+id/nav_sporting"
+                    android:icon="@drawable/ic_fitness"
+                    android:title="Sporting Goods" />
+
+                <item
+                    android:id="@+id/nav_garden"
+                    android:icon="@drawable/ic_outdoor"
+                    android:title="Garden and Outdoors" />
+                <item
+                    android:id="@+id/nav_literature"
+                    android:icon="@drawable/ic_book"
+                    android:title="Literature" />
+                <item
+                    android:id="@+id/nav_automobiles"
+                    android:icon="@drawable/ic_automotive"
+                    android:title="Automobiles" />
+                <item
+                    android:id="@+id/nav_hardware"
+                    android:icon="@drawable/ic_metalwork"
+                    android:title="Hardware" />
+
+
+            </group>
+        </menu>
+
+    </item>
+
+
+    <item android:title="Actions">
+        <menu>
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:visible="false"
+                    android:id="@+id/nav_allUsers"
+                    android:icon="@drawable/ic_people"
+                    android:title="All App Users" />
+
+
+                <item
+                    android:visible="false"
+                    android:id="@+id/nav_messages"
+                    android:icon="@drawable/ic_message"
+                    android:title="View Messages" />
+
+                <item
+                    android:id="@+id/nav_profile"
+                    android:icon="@drawable/ic_profile"
+                    android:title="Profile" />
+
+                <item
+                    android:id="@+id/nav_notifications"
+                    android:icon="@drawable/ic_notifications"
+                    android:title="Notifications" />
+
+
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/ic_logout"
+                    android:title="Log Out" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Communicate">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_about"
+                    android:icon="@drawable/ic_about"
+                    android:title="About This App" />
+                <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/ic_share"
+                    android:title="Share This App" />
+                <item
+                    android:id="@+id/nav_rate"
+                    android:icon="@drawable/ic_rate"
+                    android:title="Rate On Google Play" />
+
+            </group>
+        </menu>
+    </item>
+
+
+</menu>

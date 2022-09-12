@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.e_commerceapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/welcomelogo"
+        android:label="Karibu-Donholm"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ECommerceApp">
+        <activity
+            android:name="com.example.e_commerceapp.Activities.UserDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.EditProductActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.MessageAdminActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.OrderDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.BuyerOrdersActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.OrdersActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.CheckoutActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.AboutAppActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.AdminMessagesViewActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.AllAppUsersActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.NotificationsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.CategorySelectedActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.StarredItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.MyCartActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.DashboardActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.PostProductActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.ProductDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.ForgotPasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.AdminLoginActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.CompleteRegistrationDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.StartRegistrationActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.TermsAndConditionsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.e_commerceapp.Activities.SplashScreenActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

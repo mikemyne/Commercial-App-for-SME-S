@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_design1"
+    android:orientation="vertical"
+    tools:context=".Activities.AboutAppActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="#000"
+        android:id="@+id/toolbar"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        android:elevation="4dp"/>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/welcomelogo"
+                android:layout_gravity="center_horizontal"/>
+
+            <TextView
+                android:id="@+id/textViewLoadingContent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Welcome to this Karibu Donholm Services app! This is a platform in which allows you to find and buy anything you want in and around Donholm from the various businesses around. Go to the home page and start odering! Thanks!"
+                android:textColor="#fff"
+                android:textStyle="bold"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:textSize="18sp"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

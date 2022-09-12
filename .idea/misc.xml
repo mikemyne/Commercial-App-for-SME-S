@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/drawable/background_design1.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/drawable/background_design2.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/drawable/buttons2.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/drawable/buttons3.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/drawable/circle_shape.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/drawable/ic_building.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/drawable/ic_cart.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/drawable/ic_cart_button.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/drawable/ic_check.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/drawable/ic_edit.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/drawable/ic_number.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/drawable/ic_phone.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/drawable/ic_shopping_cart.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_about_app.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_admin_login.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_admin_messages_view.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_all_app_users.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_buyer_orders.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_category_selected.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_checkout.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_complete_registration_details.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_dashboard.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_edit_product.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_forgot_password.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_login.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_main.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_message_admin.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_my_cart.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_notifications.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_order_details.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_orders.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_post_product.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_product_details.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_profile.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_starred_items.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_start_registration.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_terms_and_conditions.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activity_user_details.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/activitysplash_screen_main.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/all_users_display_layout.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/cart_items_layout.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/checkout_summary_layout.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/display_admin_messages.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/header.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/notification_item.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/order_details_layout.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/order_list_layout.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/products_retrieved_details.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/products_retrieved_layout.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/rate_product_layout.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/layout/success_layout.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/menu/main_menu.xml" value="0.2359375" />
+        <entry key="..\:/Users/Mr.Willy Macharia/eCommerceApp/app/src/main/res/menu/post_menu.xml" value="0.2359375" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/drawable/background_design1.xml" value="0.1535" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/drawable/buttons2.xml" value="0.163" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/drawable/ic_about.xml" value="0.187" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/drawable/ic_book.xml" value="0.163" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/drawable/ic_building.xml" value="0.163" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/drawable/ic_dashboard.xml" value="0.187" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/drawable/ic_e_commerce.xml" value="0.187" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/drawable/ic_electronics.xml" value="0.163" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/drawable/ic_it.xml" value="0.187" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.187" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/drawable/ic_supermarket.xml" value="0.163" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/drawable/navigation_selector.xml" value="0.187" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/drawable/navigation_view_item_selected.xml" value="0.187" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_about_app.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_admin_login.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_admin_messages_view.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_all_app_users.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_buyer_orders.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_category_selected.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_checkout.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_complete_registration_details.xml" value="0.21" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_dashboard.xml" value="0.14" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_edit_product.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_forgot_password.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_login.xml" value="0.21" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_message_admin.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_my_cart.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_notifications.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_order_details.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_orders.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_post_product.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_product_details.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_profile.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_starred_items.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_start_registration.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_terms_and_conditions.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activity_user_details.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/activitysplash_screen_main.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/all_users_display_layout.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/cart_items_layout.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/checkout_summary_layout.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/display_admin_messages.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/header.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/notification_item.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/order_details_layout.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/order_list_layout.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/products_retrieved_details.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/products_retrieved_layout.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/rate_product_layout.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/layout/success_layout.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/menu/main_menu.xml" value="0.2390625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/eCommerceApp/app/src/main/res/menu/post_menu.xml" value="0.2390625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

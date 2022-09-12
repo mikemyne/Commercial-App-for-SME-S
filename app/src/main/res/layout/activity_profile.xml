@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background_design1"
+    tools:context=".Activities.ProfileActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="#000"
+        android:id="@+id/settingsToolbar"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        android:elevation="4dp">
+    </androidx.appcompat.widget.Toolbar>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:layout_height="match_parent">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="10dp"
+            android:layout_marginBottom="10dp"
+            android:elevation="10dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="10dp"
+                android:orientation="vertical">
+
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/profile_image"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="50dp"
+                    android:id="@+id/settingsProfileImage"
+                    />
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:textColor="#000"
+                    android:textColorHint="#000"
+                    app:boxStrokeColor="#000"
+                    android:theme="@style/TextInputLayoutStyle"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+                    app:hintTextAppearance="@color/black"
+                    android:layout_height="wrap_content">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/fullName"
+                        android:layout_width="match_parent"
+                        android:hint="Enter your full name"
+                        android:drawableStart="@drawable/ic_profile"
+                        android:drawablePadding="10dp"
+                        android:textColor="#000"
+                        android:inputType="textCapSentences"
+                        android:textSize="18sp"
+                        android:textColorHint="#000"
+                        android:layout_height="wrap_content"/>
+
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:textColor="#000"
+                    android:textColorHint="#000"
+                    app:boxStrokeColor="#000"
+                    android:theme="@style/TextInputLayoutStyle"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+                    app:hintTextAppearance="@color/black"
+                    android:layout_height="wrap_content">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/phone"
+                        android:layout_width="match_parent"
+                        android:hint="Enter your phone number"
+                        android:drawableStart="@drawable/ic_phone"
+                        android:drawablePadding="10dp"
+                        android:inputType="number"
+                        android:textColor="#000"
+                        android:textSize="18sp"
+                        android:textColorHint="#000"
+                        android:layout_height="wrap_content"/>
+
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:textColor="#000"
+                    android:textColorHint="#000"
+                    app:boxStrokeColor="#000"
+                    android:theme="@style/TextInputLayoutStyle"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+                    app:hintTextAppearance="@color/black"
+                    android:layout_height="wrap_content">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/idNumber"
+                        android:layout_width="match_parent"
+                        android:hint="Enter  national ID number"
+                        android:drawableStart="@drawable/ic_number"
+                        android:drawablePadding="10dp"
+                        android:inputType="number"
+                        android:textColor="#000"
+                        android:textSize="18sp"
+                        android:textColorHint="#000"
+                        android:layout_height="wrap_content"/>
+
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:textColor="#000"
+                    android:textColorHint="#000"
+                    app:boxStrokeColor="#000"
+                    android:theme="@style/TextInputLayoutStyle"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+                    app:hintTextAppearance="@color/black"
+                    android:layout_height="wrap_content">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/residence"
+                        android:layout_width="match_parent"
+                        android:hint="Enter area of residence"
+                        android:inputType="textCapSentences"
+                        android:drawableStart="@drawable/ic_location"
+                        android:drawablePadding="10dp"
+                        android:textColor="#000"
+                        android:textSize="18sp"
+                        android:textColorHint="#000"
+                        android:layout_height="wrap_content"/>
+
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <Button
+                    android:id="@+id/settingsUpdateDetailsButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Update Details"
+                    android:textAllCaps="false"
+                    android:padding="10dp"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/buttons2"
+                    android:textSize="18sp"
+                    android:textColor="#ffffff"
+                    />
+
+                <Button
+                    android:id="@+id/settingsBackButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Back"
+                    android:textAllCaps="false"
+                    android:padding="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:background="@drawable/buttons2"
+                    android:textSize="18sp"
+                    android:textColor="#ffffff"
+                    />
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+    </ScrollView>
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
